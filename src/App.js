@@ -4,6 +4,7 @@ import Account from "./Account";
 import FreeComponent from "./FreeComponent";
 import AuthComponent from "./AuthComponent";
 import ProtectedRoutes from "./ProtectedRoutes";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
